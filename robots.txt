@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Independent website demonstration; obtain authorisation before enabling indexing.
